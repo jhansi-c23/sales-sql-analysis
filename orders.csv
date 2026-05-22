@@ -1,0 +1,16 @@
+OrderID,CustomerName,OrderDate,TotalAmount
+O001,Aarav Sharma,2025-10-01,1200
+O002,Priya Patel,2025-10-02,850
+O003,Rohit Verma,2025-10-03,1450
+O004,Sneha Gupta,2025-10-03,2300
+O005,Ananya Singh,2025-10-04,560
+O006,Karan Mehta,2025-10-05,1320
+O007,Neha Kapoor,2025-10-06,940
+O008,Vikas Yadav,2025-10-07,1680
+O009,Meera Iyer,2025-10-07,2450
+O010,Aditya Joshi,2025-10-08,890
+O011,Riya Jain,2025-10-09,1100
+O012,Rahul Das,2025-10-10,670
+O013,Ishita Ghosh,2025-10-10,780
+O014,Amit Kumar,2025-10-11,2150
+O015,Tanya Bansal,2025-10-12,990
